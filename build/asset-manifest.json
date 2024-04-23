@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21688161.css",
+    "main.js": "/static/js/main.792656a8.js",
+    "static/js/453.7fe13c32.chunk.js": "/static/js/453.7fe13c32.chunk.js",
+    "static/media/70SdiscopersonaluseBold-w14z2.otf": "/static/media/70SdiscopersonaluseBold-w14z2.4cdc3b6b375bae4eace1.otf",
+    "index.html": "/index.html",
+    "main.21688161.css.map": "/static/css/main.21688161.css.map",
+    "main.792656a8.js.map": "/static/js/main.792656a8.js.map",
+    "453.7fe13c32.chunk.js.map": "/static/js/453.7fe13c32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21688161.css",
+    "static/js/main.792656a8.js"
+  ]
+}
