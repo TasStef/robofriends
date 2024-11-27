@@ -9,6 +9,7 @@ import {Provider} from 'react-redux';
 import {createStore , applyMiddleware, combineReducers} from 'redux';
 import {searchRobots, requestRobots} from "./reducers.js";
 import {thunk} from "redux-thunk";
+import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 // import {configureStore} from 'reduxjs/toolkit'; // to replace createStore as it became deprecated
 
 const logger = createLogger();
@@ -29,3 +30,5 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+serviceWorkerRegistration.register();
