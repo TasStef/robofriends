@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.0f10532c.css",
+    "main.js": "/robofriends/static/js/main.073a1257.js",
+    "static/js/453.7fe13c32.chunk.js": "/robofriends/static/js/453.7fe13c32.chunk.js",
+    "static/media/70SdiscopersonaluseBold-w14z2.otf": "/robofriends/static/media/70SdiscopersonaluseBold-w14z2.4cdc3b6b375bae4eace1.otf",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "index.html": "/robofriends/index.html",
+    "main.0f10532c.css.map": "/robofriends/static/css/main.0f10532c.css.map",
+    "main.073a1257.js.map": "/robofriends/static/js/main.073a1257.js.map",
+    "453.7fe13c32.chunk.js.map": "/robofriends/static/js/453.7fe13c32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f10532c.css",
+    "static/js/main.073a1257.js"
+  ]
+}
