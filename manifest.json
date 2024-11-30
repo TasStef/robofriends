@@ -23,6 +23,19 @@
       "type": "image/png"
     }
   ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1200x800",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "480x800",
+      "type": "image/png"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
